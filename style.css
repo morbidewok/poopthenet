@@ -3,7 +3,7 @@
     background-color:#365363!important;
     color:#f9f9f9!important;
     text-shadow:1px 1px 1px #111!important;
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d;
     repeat scroll 0 0 #1b1b1d!important;
     margin-bottom:3px!important;
     -moz-border-bottom-colors:none!important;
@@ -26,7 +26,7 @@ html{
 }
 body{
     width:100%;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
     font-size:8pt;
     color:#e9e9e9;
     background: url(https://ptpimg.me/jps03d.png) repeat scroll 0 0 #1b1b1d!important;
@@ -162,7 +162,7 @@ a.permission_27,.permission_27{
 }
 h1,h2,h3,h4{
     margin:5px 0;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
     font-weight:700
 }
 h2{
@@ -189,7 +189,7 @@ input{
     background-color:#333;
     border:1px solid #666;
     color:#fff;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
     font-size:11px;
     outline:0
 }
@@ -203,7 +203,7 @@ select{
     background-color:#333;
     border:1px solid #666;
     color:#fff;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
     font-size:11px;
     outline:0
 }
@@ -218,7 +218,7 @@ textarea{
     background-color:#333;
     border:1px solid #666;
     color:#fff;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
     font-size:11px!important;
     outline:0;
     border-color:rgba(255,255,255,.09) rgba(255,255,255,.09) rgba(255,255,255,.09)!important;
@@ -339,7 +339,7 @@ ul.thin li{
 #wrapper{
     width:975px;
     padding:1px 10px;
-    background:url(images/wbg.png) top center repeat-y;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/wbg.png) top center repeat-y;
     margin:0 auto
 }
 #footer{
@@ -352,7 +352,7 @@ ul.thin li{
 }
 #DonInfo{
     font-size:9px;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
     text-indent:3pt!important
 }
 #DonInfo a{
@@ -362,7 +362,7 @@ ul.thin li{
     width:960px;
     height:100px;
     margin:0;
-    background-image:url(images/banner.gif);
+    background-image:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/banner.gif);
     background-repeat:no-repeat;
     background-position:center center
 }
@@ -454,7 +454,7 @@ ul.thin li{
 #userinfo_minor{
     font-size:8pt;
     padding:2px 5px;
-    background:url(images/topbg.png);
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/topbg.png);
     width:975px;
     text-align:right;
     position:absolute;
@@ -557,7 +557,7 @@ div.contenth textarea:focus{
     border-right:0 hidden!important
 }
 .alertbar{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d;
     background-color:#111!important;
     text-align:center;
     color:#ccc;
@@ -644,7 +644,7 @@ p.min_padding{
 }
 .box{
     font-size:8pt;
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     background-color:#111!important;
     box-shadow:0 5px 12px rgba(0,0,0,.5)!important;
     -moz-border-bottom-colors:none!important;
@@ -693,7 +693,7 @@ p.min_padding{
     margin:0 5px 10px
 }
 .head{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     background-color:#252525!important;
     color:#fff;
     padding:4px;
@@ -704,7 +704,7 @@ p.min_padding{
     position:relative!important
 }
 .body{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     background-color:#111!important;
     padding:3px 10px 10px
 }
@@ -748,12 +748,12 @@ table{
     border-collapse:collapse
 }
 tr{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     background-color:#131313!important;
     border:1px solid #3d3d3d
 }
 tr.rowa{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     background-color:#111!important
 }
 td{
@@ -776,13 +776,13 @@ td.tdright{
     text-align:right
 }
 .forum_group_header{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     color:#fff;
     background-color:#111!important;
     font-weight:700
 }
 .colhead{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     font-weight:700;
     box-shadow:none!important;
     color:#fff
@@ -798,7 +798,7 @@ td.colhead,.colhead td{
     vertical-align:middle
 }
 .colhead_dark{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     background-color:#252525!important;
     vertical-align:middle;
     box-shadow:0 0 12px rgba(0,0,0,.7)!important;
@@ -808,7 +808,7 @@ td.colhead,.colhead td{
     color:#fff
 }
 ul.navigation{
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     background-color:#191919!important;
     color:#fff;
     text-align:center;
@@ -1076,7 +1076,7 @@ ul .invitetree{
 #right_poll{
     width:2px;
     height:9px;
-    background:url(images/bar_right.gif) no-repeat center center;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/bar_right.gif) no-repeat center center;
     float:left;
     margin:0;
     padding:0
@@ -1338,7 +1338,7 @@ a.tab{
     color:#fff
 }
 .home .month_rating{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
     font-size:40px
 }
 a.tab:hover{
@@ -1354,7 +1354,7 @@ div.thin2{
     width:900px
 }
 #menu{
-    background:url(images/menu.png) repeat-x scroll left center transparent;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/menu.png) repeat-x scroll left center transparent;
     font-size:11px;
     line-height:30px;
     margin-top:-20px;
@@ -1495,7 +1495,7 @@ div#gift{
     z-index:999
 }
 .button{
-    background:url(images/buttons.gif) no-repeat scroll center -34px transparent;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/buttons.gif) no-repeat scroll center -34px transparent;
     border:0 solid #131313;
     color:#eee;
     height:30px;
@@ -1544,41 +1544,41 @@ max-width:758px;
 }
 div[style="background-image:url(https://cdn.broadcasthe.net/common/lumen/lumen_store_bg.png);
 height:598px"]{
-    background-image:url(images/lumen/lumen_store_bg.png)!important;
+    background-image:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/lumen/lumen_store_bg.png)!important;
     height:598px
 }
 img[title=Unread],img[title=UnRead]{
-    background:url(images/unread.png) no-repeat scroll 0 0 transparent;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/unread.png) no-repeat scroll 0 0 transparent;
     height:34px!important;
     padding-right:47px!important;
     width:0!important
 }
 img[title=Read],img[title=Read]{
-    background:url(images/read.png) no-repeat scroll 0 0 transparent;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/read.png) no-repeat scroll 0 0 transparent;
     height:34px!important;
     padding-right:47px!important;
     width:0!important
 }
 img[src="https://cdn.broadcasthe.net/common/caticons/episode-hd.png"]{
-    background:url(images/torrents/episode-hd.png) no-repeat scroll 0 0 transparent;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/torrents/episode-hd.png) no-repeat scroll 0 0 transparent;
     height:50px!important;
     padding-right:48px!important;
     width:0!important
 }
 img[src="https://cdn.broadcasthe.net/common/caticons/series-hd.png"]{
-    background:url(images/torrents/series-hd.png) no-repeat scroll 0 0 transparent;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/torrents/series-hd.png) no-repeat scroll 0 0 transparent;
     height:50px!important;
     padding-right:48px!important;
     width:0!important
 }
 img[src="https://cdn.broadcasthe.net/common/caticons/episode-sd.png"]{
-    background:url(images/torrents/episode-sd.png) no-repeat scroll 0 0 transparent;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/torrents/episode-sd.png) no-repeat scroll 0 0 transparent;
     height:50px!important;
     padding-right:48px!important;
     width:0!important
 }
 img[src="https://cdn.broadcasthe.net/common/caticons/series-sd.png"]{
-    background:url(images/torrents/series-sd.png) no-repeat scroll 0 0 transparent;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/torrents/series-sd.png) no-repeat scroll 0 0 transparent;
     height:50px!important;
     padding-right:48px!important;
     width:0!important
@@ -1602,7 +1602,7 @@ img[src="https://cdn.broadcasthe.net/common/caticons/series-sd.png"]{
 #menu li a{
     text-decoration:none!important;
     padding-left:20px!important;
-    background:url(images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
+    background:url(https://raw.githubusercontent.com/morbidewok/poopthenet/master/images/pattern.png) repeat scroll 0 0 #1b1b1d!important;
     background-color:#212121!important;
     color:#fff!important;
     box-shadow:1px 1px 1px #1f1f1f
