@@ -1,3 +1,9 @@
+/*!
+ * Theme Name:      Warning [base16-3024-dark]
+ * Version:         1.5
+ * Last Updated:    21 June 2017
+ * Forum Thread:    /forums.php?action=viewthread&threadid=21795
+ */
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans");
 #alerts>div[style]{
     background-color:#365363!important;
