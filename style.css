@@ -35,7 +35,7 @@ body {
   font-family: tahoma,helvetica,sans-serif;
   font-size: 8pt;
   color: #E9E9E9;
-background: url("images/bg.jpg") no-repeat fixed center top rgb(2, 2, 2) !important;
+background: url("images/bg.png") repeat scroll 0 0 #1b1b1d!important;
 }
 
 /* Common elements */
